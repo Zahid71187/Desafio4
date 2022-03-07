@@ -1,0 +1,25 @@
+html{
+    background-color: aquamarine;
+}
+h1{
+    color:darkgoldenrod
+}
+
+label{
+    color: red;
+    font-weight: bold;
+}
+
+input{
+    border-color:cadetblue
+}
+
+button{
+    background-color: crimson;
+    color: white;
+    border-radius: 50px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
